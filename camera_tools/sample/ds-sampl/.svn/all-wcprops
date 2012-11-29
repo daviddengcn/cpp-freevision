@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl
+END
+ChildView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/ChildView.cpp
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/MainFrm.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/stdafx.h
+END
+camera.sln
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/camera.sln
+END
+ChildView.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/ChildView.h
+END
+camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/camera.cpp
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/MainFrm.cpp
+END
+camera.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/camera.vcproj
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/ReadMe.txt
+END
+camera.rc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/camera.rc
+END
+camera.suo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/camera.suo
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/resource.h
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/free-vision/!svn/ver/3/camera_tools/trunk/sample/ds-sampl/camera.h
+END
